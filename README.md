@@ -1,8 +1,8 @@
 # Lung_Cancer_Detection
 
-This project aims to detect lung cancer from CT-Scan images using deep learning techniques. The dataset used in this project contains CT-Scan images of Adenocarcinoma, Large cell carcinoma, Squamous cell carcinoma, and normal cells. The dataset can be found here.
+This project aims to detect lung cancer from CT-Scan images using deep learning techniques. The dataset used in this project contains CT-Scan images of Adenocarcinoma, Large cell carcinoma, Squamous cell carcinoma, and normal cells.
 
-Dataset Description
+# Dataset Description
 
 The CT-Scan images are in jpg or png format to fit the model. The dataset contains four main folders:
 
