@@ -8,7 +8,7 @@ The CT-Scan images are in jpg or png format to fit the model. The dataset contai
 
 **Lung Adenocarcinomas**: contains CT-Scan images of Adenocarcinoma of the lung. Adenocarcinoma is the most common form of lung cancer, accounting for 30% of all cases overall and about 40% of all non-small cell lung cancer occurrences.
 
-**Lung Squamous Cell cCarcinomas**: contains CT-Scan images of Squamous cell carcinoma of the lung. This type of lung cancer is responsible for about 30% of all non-small cell lung cancers, and is generally linked to smoking.
+**Lung Squamous Cell Carcinomas**: contains CT-Scan images of Squamous cell carcinoma of the lung. This type of lung cancer is responsible for about 30% of all non-small cell lung cancers, and is generally linked to smoking.
 
 **Lung Benign Tissue**: contains CT-Scan images of normal cells.
 
@@ -17,9 +17,13 @@ The CT-Scan images are in jpg or png format to fit the model. The dataset contai
 This project was implemented using the following technologies:
 
 **TensorFlow** and **Keras**: for building and training the deep learning model.
+
 **Inception V3**: pre-trained models used for transfer learning.
+
 **PIL**, **OpenCV**: for image processing.
+
 **Matplotlib**: for visualizing the training and validation results.
+
 
 # Model Architecture
 
