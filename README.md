@@ -3,6 +3,7 @@
 This project aims to detect lung cancer from CT-Scan images using deep learning techniques. The dataset used in this project contains CT-Scan images of Adenocarcinoma, Large cell carcinoma, Squamous cell carcinoma, and normal cells. The dataset can be found here.
 
 Dataset Description
+
 The CT-Scan images are in jpg or png format to fit the model. The dataset contains four main folders:
 
 Adenocarcinoma: contains CT-Scan images of Adenocarcinoma of the lung. Adenocarcinoma is the most common form of lung cancer, accounting for 30% of all cases overall and about 40% of all non-small cell lung cancer occurrences.
