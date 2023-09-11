@@ -12,7 +12,7 @@ The CT-Scan images are in jpg or png format to fit the model. The dataset contai
 
 **Lung Benign Tissue**: contains CT-Scan images of normal cells.
 
-The dataset Link is [here](https://www.kaggle.com/datasets/andrewmvd/lung-and-colon-cancer-histopathological-images_)
+The Dataset Link is [here](https://www.kaggle.com/datasets/andrewmvd/lung-and-colon-cancer-histopathological-images_)
 
 # Technologies Used
 
