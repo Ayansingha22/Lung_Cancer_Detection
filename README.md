@@ -10,9 +10,9 @@ The CT-Scan images are in jpg or png format to fit the model. The dataset contai
 
 **Lung Squamous Cell Carcinomas**: contains CT-Scan images of Squamous cell carcinoma of the lung. This type of lung cancer is responsible for about 30% of all non-small cell lung cancers, and is generally linked to smoking.
 
-The dataset Link is [here](https://www.kaggle.com/datasets/andrewmvd/lung-and-colon-cancer-histopathological-images_)
-
 **Lung Benign Tissue**: contains CT-Scan images of normal cells.
+
+The dataset Link is [here](https://www.kaggle.com/datasets/andrewmvd/lung-and-colon-cancer-histopathological-images_)
 
 # Technologies Used
 
